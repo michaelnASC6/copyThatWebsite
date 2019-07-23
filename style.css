@@ -1,0 +1,82 @@
+#logo img {
+    height: 55px;
+    width: 95px; 
+    float: left;
+    margin-top: -15px;
+}
+
+body {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#navbar {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttons {
+    margin-top: 30px;
+}
+
+.buttons button{
+    margin-left: 30px;
+    font-family: Helvetica;
+    background-color: white;
+    border: none;
+    font-size: 14px;
+    padding: 10px;
+}
+
+button {
+    margin-left: 30px;
+}
+
+.link a {
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+.first-3-buttons:hover{
+    color:grey;
+}
+
+#NY {
+    color: grey;
+}
+
+#NY:hover{
+    color: black;
+}
+
+.link a {
+    color: grey;
+}
+
+.link a:hover{
+    color: blue;
+}
+
+#login{
+    border: solid lightgrey;
+    border-width: 1px;
+    border-radius: 3px;
+    color: blue;
+}
+
+#login:hover{
+    border-color: blue;
+}
+
+#get-free-quote{
+  background-color: blue;
+  border: solid blue 1px;
+  color: white;
+  border-radius: 3px;
+}
+
+#get-free-quote:hover{
+    background-color: white;
+    color: blue;
+}
